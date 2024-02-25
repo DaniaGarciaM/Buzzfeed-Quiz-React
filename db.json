@@ -1,0 +1,2036 @@
+{
+    "quiz" : {
+        "quizId": "dgm1711",
+        "title": "¿Qué estilo de planeación Ackoff",
+        "subtitle": "Tus personajes favoritos y tú pueden tener mucho en común...",
+        "content": [
+            {
+                "id": 0,
+                "text": "¿Cómo sueles abordar los problemas cuando surgen?",
+                "questions": [
+                    {
+                        "id": 1,
+                        "text": "Como Zack Martin, tomo medidas solo cuando la situación lo exige.",
+                        "image": "https://i.pinimg.com/564x/25/cc/39/25cc39379a7a76071ea7967d3ec9e7ea.jpg",
+                        "alt": "Zack Martin"
+                    },
+                    {
+                        "id": 2,
+                        "text": "Como Candace Flynn, a veces prefiero no intervenir y esperar a ver cómo se resuelve todo.",
+                        "image": "https://i.pinimg.com/564x/7b/59/2b/7b592b36ddd2f2e20b55c0d93835649c.jpg",
+                        "alt": "Candace Flynn"
+                    },
+                    {
+                        "id": 3,
+                        "text": "Como Kim Possible, suelo desarrollar un plan básico pero estoy abierto a cambios.",
+                        "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                        "alt": "Kim Possible"
+                    },
+                    {
+                        "id": 4,
+                        "text": "Como Phineas Flynn, creo en la colaboración y busco soluciones creativas junto a mis amigos.",
+                        "image": "https://i.pinimg.com/564x/bd/c3/96/bdc3961fd284b29e2df0eb8bbf5eb02f.jpg",
+                        "alt": "Phineas Flynn"
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "text": "¿Qué tan importante es para ti la reflexión sobre el pasado y la preparación para el futuro al tomar decisiones?",
+                "questions": [
+                    {
+                        "id": 1,
+                        "text": "Como Sharpay Evans, prefiero confiar en mi historia pasada y no preocuparme mucho por el futuro.",
+                        "image": "https://i.pinimg.com/564x/56/03/8c/56038cacbffd9bbf50c2d2546fdd5266.jpg",
+                        "alt": "Sharpay Evans"
+                    },
+                    {
+                        "id": 2,
+                        "text": "Como Ferb Fletcher, mientras las cosas estén bien en el presente, no me importa mucho ni el pasado ni el futuro.",
+                        "image": "https://i.pinimg.com/564x/96/ea/38/96ea3817711da85b5e575d6c3cc6d09f.jpg",
+                        "alt": "Ferb Fletcher"
+                    },
+                    {
+                        "id": 3,
+                        "text": "Como Miley Stewart, me considero alguien que anticipa el futuro, pero a veces me preocupo tanto por lo que está por venir que olvido aprender del pasado.",
+                        "image": "https://i.pinimg.com/564x/4f/c0/02/4fc002c2a73429541f2c4aeb32515c3e.jpg",
+                        "alt": "Miley Stewart"
+                    },
+                    {
+                        "id": 4,
+                        "text": "Como Kim Possible, considero importante aprender del pasado, vivir el presente y construir el futuro de manera innovadora.",
+                        "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                        "alt": "Kim Possible"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "¿Qué tan importante es para ti la reflexión sobre el pasado y la preparación para el futuro al tomar decisiones?",
+                "questions": [
+                    {
+                        "id": 1,
+                        "text": "Como London Tipton, prefiero mantenerme enfocada en el presente y no me preocupo por lo que vendrá después.",
+                        "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                        "alt": "London Tipton"
+                    },
+                    {
+                        "id": 2,
+                        "text": "Como Zack Martin, mientras las cosas estén bien en el presente, no me detengo a pensar demasiado en el pasado ni en el futuro.",
+                        "image": "https://i.pinimg.com/564x/25/cc/39/25cc39379a7a76071ea7967d3ec9e7ea.jpg",
+                        "alt": "Zack Martin"
+                    },
+                    {
+                        "id": 3,
+                        "text": "Como Raven Baxter, aunque a menudo me preocupa lo que depara el futuro, a veces olvido las lecciones aprendidas del pasado.",
+                        "image": "https://i.pinimg.com/736x/52/09/22/52092287821822dc18b955661e1eb59b.jpg",
+                        "alt": "Raven Baxter"
+                    },
+                    {
+                        "id": 4,
+                        "text": "Como Kim Possible, entiendo la importancia de aprender del pasado, vivir el presente con determinación y construir un futuro innovador.",
+                        "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                        "alt": "Kim Possible"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "¿Qué actividad prefieres en tus ratos libres?",
+                "questions": [
+                    {
+                        "id": 1,
+                        "text": "Organizar y practicar para el próximo espectáculo como Sharpay Evans.",
+                        "image": "https://i.pinimg.com/564x/56/03/8c/56038cacbffd9bbf50c2d2546fdd5266.jpg",
+                        "alt": "Sharpay Evans"
+                    },
+                    {
+                        "id": 2,
+                        "text": "Disfrutar de la naturaleza y relajarte como Mowgli.",
+                        "image": "https://i.pinimg.com/564x/02/dc/1a/02dc1ab4b0f16b016197b8b34aaf82a0.jpg",
+                        "alt": "Mowgli"
+                    },
+                    {
+                        "id": 3,
+                        "text": "Planificar una fiesta sorpresa para tus amigos como Lizzie McGuire.",
+                        "image": "https://i.pinimg.com/564x/44/2e/0a/442e0a76201bbb6eda23eacf6b05c081.jpg",
+                        "alt": "Lizzie McGuire"
+                    },
+                    {
+                        "id": 4,
+                        "text": "Salir a explorar nuevos lugares y aventuras como Phineas y Ferb.",
+                        "image": "https://i.pinimg.com/564x/3b/df/ac/3bdfacf97556944434a5c284e17636cf.jpg",
+                        "alt": "Phineas y Ferb"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "text": "¿Qué importancia le das a tener un plan antes de iniciar un proyecto?",
+                "questions": [
+                    {
+                        "id": 1,
+                        "text": "Como Raven Baxter, prefiero improvisar sobre la marcha y no planificar demasiado.",
+                        "image": "https://i.pinimg.com/736x/52/09/22/52092287821822dc18b955661e1eb59b.jpg",
+                        "alt": "Raven Baxter"
+                    },
+                    {
+                        "id": 2,
+                        "text": "Como Ron Stoppable, confío en que las cosas se resolverán por sí mismas sin necesidad de planificación.",
+                        "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                        "alt": "Ron Stoppable"
+                    },
+                    {
+                        "id": 3,
+                        "text": "Como Alex Russo, creo en la importancia de tener un plan, pero también en la flexibilidad para adaptarse",
+                        "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                        "alt": "Alex Russo"
+                    },
+                    {
+                        "id": 4,
+                        "text": "Como Troy Bolton, creo firmemente en la necesidad de tener un plan sólido y flexible para alcanzar mis objetivos.",
+                        "image": "https://i.pinimg.com/564x/6f/87/70/6f8770051da89ec79debec0d0483de22.jpg",
+                        "alt": "Troy Bolton"
+                    }
+                ]
+            }
+        ],
+        "answers": [
+            {
+              "combination": [1,1,1,1,1],
+              "title": "Resultado: Reactivista 😕",
+              "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+              "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+              "alt": "Reactivista"
+            },
+            {
+                "combination": [2,2,2,2,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [3,3,3,3,3],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [4,4,4,4,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [2,1,1,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [3,1,1,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [4,1,1,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,2,1,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,3,1,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,4,1,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,2,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,3,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,4,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,1,2,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,1,3,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,1,4,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,1,1,2],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,1,1,3],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,1,1,4],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,2,2,2,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [3,2,2,2,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [4,2,2,2,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [2,1,2,2,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [2,3,2,2,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [2,4,2,2,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [2,2,1,2,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [2,2,3,2,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [2,2,4,2,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [2,2,2,1,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [2,2,2,3,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [2,2,2,4,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [2,2,2,2,1],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [2,2,2,2,3],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [2,2,2,2,4],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,3,3,3,3],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [2,3,3,3,3],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [4,3,3,3,3],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [3,1,3,3,3],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [3,2,3,3,3],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [3,4,3,3,3],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [3,3,1,3,3],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [3,3,2,3,3],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [3,3,4,3,3],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [3,3,3,1,3],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [3,3,3,2,3],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [3,3,3,4,3],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [3,3,3,3,1],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [3,3,3,3,2],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [3,3,3,3,4],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [1,4,4,4,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [2,4,4,4,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [3,4,4,4,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [4,1,4,4,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [4,2,4,4,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [4,3,4,4,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [4,4,1,4,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [4,4,2,4,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [4,4,3,4,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [4,4,4,1,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [4,4,4,2,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [4,4,4,3,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [4,4,4,4,1],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [4,4,4,4,2],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [4,4,4,4,3],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,1,1,2,2],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,1,2,3],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,1,2,4],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,1,3,2],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,1,3,3],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,1,3,4],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,1,4,2],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,1,4,3],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,1,4,4],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,2,2,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,2,2,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,1,2,2,3],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,1,2,2,4],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,1,2,1,2],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,2,1,3],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,2,1,4],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,3,1,2],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,3,1,3],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,3,1,4],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,3,2,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,3,3,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,3,4,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,3,4,2],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,3,4,3],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,3,4,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,1,4,4,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,1,4,4,1],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,1,4,4,2],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,1,4,4,3],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,2,1,1,2],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,2,1,1,3],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,2,1,1,4],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,2,1,2,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,2,1,3,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,2,1,4,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,2,2,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,2,3,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,2,4,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,2,4,1,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,2,4,1,3],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,2,4,1,4],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,2,2,1,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,2,2,1,3],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,2,2,1,4],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,2,3,1,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,2,3,1,3],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [1,2,3,1,4],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,2,3,1,2],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,2,3,2,1],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,2,3,3,1],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [1,2,3,4,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,2,4,2,1],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,2,4,3,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,2,4,4,1],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,2,4,4,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,2,4,3,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,2,1,2,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,2,1,2,3],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,2,1,2,4],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,2,1,3,3],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [1,2,1,3,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,2,1,3,4],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,2,1,4,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,2,1,4,3],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,2,1,4,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,3,2,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,3,3,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,3,4,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,3,3,2,1],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [1,3,3,3,1],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [1,3,3,4,1],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [1,4,2,3,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,4,2,3,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,4,2,3,3],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [1,4,2,3,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,4,2,2,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,4,2,1,4],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,4,2,4,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,4,2,4,1],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,4,2,4,2],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,4,2,4,3],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,3,2,2,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,3,2,2,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,3,2,2,3],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [1,3,2,2,4],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,3,2,3,4],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [1,3,2,1,4],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,3,2,4,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,3,2,4,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,3,2,4,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,3,2,4,3],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [1,3,3,4,2],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [1,3,3,4,3],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [1,3,3,4,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,3,4,4,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,3,1,4,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,4,3,4,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,4,3,4,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,4,1,1,4],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,4,1,2,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,4,1,3,4],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,4,1,4,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,4,1,4,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,4,1,4,2],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,4,1,4,3],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,2,2,3,4],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,2,2,2,4],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,2,2,2,1],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,2,4,2,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,2,3,2,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,2,2,3,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,2,2,3,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,2,2,3,3],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [1,2,2,4,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,2,2,4,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,2,2,4,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,2,2,4,3],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,2,4,3,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,2,4,2,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,2,4,2,3],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,2,4,3,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,2,4,3,3],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [1,2,4,4,3],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,2,4,4,2],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,3,2,3,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,3,2,3,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,3,2,3,3],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [1,3,2,3,1],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [1,3,3,1,4],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [1,3,3,1,3],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [1,3,3,1,2],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,3,4,1,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,3,4,1,2],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [1,3,4,2,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,3,4,2,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,3,4,2,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,3,4,2,3],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [1,3,4,3,1],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [1,3,4,3,2],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [1,3,4,3,3],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [1,3,4,3,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,3,4,4,1],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,3,4,4,2],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,3,4,4,3],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,3,1,1,4],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,3,1,1,2],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,3,1,1,3],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,2,3,4,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,2,3,4,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,2,3,4,3],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,1,2,4,4],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,1,2,4,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,2,4,3],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,2,4,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,1,3,2,4],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,3,2,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,1,3,2,3],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [1,1,3,3,4],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,3,3,2],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,1,3,3,3],
+                "title": "Resultado: Inactivista 😴",
+                "text": "¡Eres un inactivista! Sobrevives en el presente y no te preocupas mucho por el pasado ni por el futuro. Mientras las cosas estén bien ahora, todo está bien para ti. Sin embargo, recuerda que estar demasiado cómodo en la zona de confort puede impedir tu crecimiento personal. Es hora de despertar y buscar nuevas oportunidades. ¡Adelante! 🌟",
+                "image": "https://i.pinimg.com/564x/e4/15/8c/e4158ca4320898a279c158672ea37c70.jpg",
+                "alt": "Inactivista"
+              },
+              {
+                "combination": [1,1,4,1,4],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,4,1,2],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,1,4,1,3],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [2,2,1,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [2,3,1,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [2,4,1,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [3,2,1,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [3,3,1,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [3,4,1,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [4,4,1,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [4,2,1,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [4,3,1,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [4,1,1,1,4],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [3,1,1,1,3],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [2,1,1,1,2],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [3,1,1,1,2],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [4,1,1,1,2],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [2,1,1,1,3],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [2,1,1,1,4],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [3,1,1,1,4],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [3,1,2,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [3,1,3,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [3,1,4,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [4,1,4,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [4,1,3,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [4,1,2,1,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [4,1,1,2,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [4,1,1,3,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [4,1,1,4,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [3,1,1,4,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [3,1,1,3,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [3,1,1,2,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [2,1,1,4,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [2,1,1,3,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [2,1,1,2,1],
+                "title": "Resultado: Reactivista 😕",
+                "text": "¡Eres un reactivista! Te aferras al pasado y te resistes a los cambios. Crees que tu historia pasada es suficiente para garantizar tu éxito, pero ¡cuidado! Esta mentalidad puede llevarte al error. Es hora de abrirte a nuevas oportunidades y adaptarte al cambio.",
+                "image": "https://i.pinimg.com/564x/c0/d4/d2/c0d4d228d19b9776697f562940036bd5.jpg",
+                "alt": "Reactivista"
+              },
+              {
+                "combination": [1,4,4,4,1],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,4,4,1,1],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,4,4,2,1],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [1,4,4,3,1],
+                "title": "Resultado: Interactivista 🌟",
+                "text": "¡Eres un interactivista! Para ti, todo es importante en la toma de decisiones. Eres innovador, aprendes del pasado, vives plenamente en el presente y construyes activamente el futuro. Tu enfoque equilibrado te ayuda a ser exitoso y a estar siempre un paso adelante. ¡Sigue así y continúa marcando la diferencia! 🚀",
+                "image": "https://i.pinimg.com/564x/3e/84/40/3e8440661070179afdcdd39b5a192c26.jpg",
+                "alt": "Interactivista"
+              },
+              {
+                "combination": [3,4,3,3,1],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [3,1,3,3,1],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [3,2,3,3,1],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              },
+              {
+                "combination": [3,1,2,3,3],
+                "title": "Resultado: Preactivista 🔮",
+                "text": "¡Eres un preactivista! Te gusta anticipar el futuro y te consideras un visionario. No te interesan mucho las cosas que están sucediendo actualmente o lo que ya pasó, porque estás enfocado en marcar la diferencia. Sin embargo, ten cuidado, a veces puedes estar demasiado adelantado a tu tiempo. ¡Sigue persiguiendo tus sueños, pero no te pierdas en el mañana! 🚀",
+                "image": "https://i.pinimg.com/564x/e2/d5/b7/e2d5b7cbd0a40459b2fb688250cc1845.jpg",
+                "alt": "Preactivista"
+              }
+        ]
+    }
+}
