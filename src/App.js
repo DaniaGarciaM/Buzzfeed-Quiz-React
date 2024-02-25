@@ -4,6 +4,10 @@ import QuestionsBlock from "./components/QuestionsBlock";
 
 const App = () => {
   const [quiz, setQuiz] = useState(false);
+  const [chosenAnswerItems, setChosenAnswerItems] = useState([])
+
+
+
   const fetchData = async () => {
     try {
       const response = await fetch('https://api-buzz-feed-quiz.vercel.app/quiz');
@@ -19,7 +23,8 @@ const App = () => {
     fetchData()
   }, [])
 
-  console.log(quiz)
+  console.log(chosenAnswerItems)
+
 
   return (
     <div className="app">
@@ -27,7 +32,8 @@ const App = () => {
       {quiz && quiz?.content.map(contentItem => (
         <QuestionsBlock
           key={contentItem.id}
-          quizItem={contentItem} />
+          quizItem={contentItem}
+          setChosenAnswerItems={setChosenAnswerItems} />
       ))}
     </div>
   );

@@ -1,10 +1,12 @@
-const QuiestionBlock = ({ question }) => {
-    console.log({ question })
+const QuiestionBlock = ({ question, setChosenAnswerItems }) => {
+    const handleClick = () => {
+        setChosenAnswerItems((prevState) => [...prevState, question.id])
+    }
     return (
-        <button className="question-block">
+        <button className="question-block" onClick={handleClick}>
             <img src={question.image} alt={question.alt} />
             <h3>{question.text}</h3>
-            <p className="id">
+            <p className="id_question">
                 {question.id}
             </p>
         </button>
