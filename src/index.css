@@ -10,7 +10,7 @@ body {
 }
 
 .app {
-    width: 600px;
+    width: 800px;
 }
 
 h1 {
@@ -19,7 +19,31 @@ h1 {
     text-align: left;
 }
 
+h2 {
+    font-size: 2.2rem;
+    line-height: 1.05;
+    text-align: center;
+}
+
 p {
     font-size: 1.125rem;
     line-height: 1.2;
+}
+
+.question-title {
+    width: 700px;
+    height: 240px;
+    background-color: rgb(102, 69, 221);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+}
+
+.questions-container{
+    margin: 16px 0 23px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
