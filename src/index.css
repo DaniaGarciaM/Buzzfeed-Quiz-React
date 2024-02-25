@@ -67,8 +67,8 @@ img{
     display: none;
 }
 
-answer-block{
-    width: 600px;
+.answer-block{
+    width: 800px;
     background-color: rgb(255, 61, 158);
     border-radius: 5px;
     display: flex;
