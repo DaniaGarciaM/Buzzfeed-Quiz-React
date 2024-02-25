@@ -66,3 +66,17 @@ img{
 .id_question{
     display: none;
 }
+
+answer-block{
+    width: 600px;
+    background-color: rgb(255, 61, 158);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+}
+
+.answer-block img{
+ width: 90%;
+}
