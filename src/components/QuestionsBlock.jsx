@@ -1,8 +1,8 @@
-const QuestionsBlock = () => {
-    return(
-        <div>
-
-        </div>
+const QuestionsBlock = ({ quizItem }) => {
+    return (
+        <>
+            <h2>{quizItem.text}</h2>
+        </>
     );
 }
 
